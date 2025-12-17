@@ -1,5 +1,5 @@
 package com.example.Ecommerce.enums;
 
-public enum Logontype {
+public enum LogonType {
     USER,ADMIN
 }
